@@ -16,9 +16,10 @@
 
 ### 🕹️ Challenges
 
-|  #  |      Challenge       | Difficulty[^1] |                  Description                   |
-| :-: | :------------------: | :------------: | :--------------------------------------------: |
-| 01  | First gift repeated! |       🟢       | [Show](https://adventjs.dev/challenges/2023/1) |
+|  #  |        Challenge        | Difficulty[^1] |                  Description                   |
+| :-: | :---------------------: | :------------: | :--------------------------------------------: |
+| 01  | 🎁 First gift repeated! |       🟢       | [Show](https://adventjs.dev/challenges/2023/1) |
+| 02  | 🏭 We start the factory |       🟢       | [Show](https://adventjs.dev/challenges/2023/2) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
