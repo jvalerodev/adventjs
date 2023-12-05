@@ -22,6 +22,7 @@
 | 02  |    🏭 We start the factory     |       🟢       | [Show](https://adventjs.dev/challenges/2023/2) |
 | 03  |       😏 The naughty elf       |       🟢       | [Show](https://adventjs.dev/challenges/2023/3) |
 | 04  | 😵‍💫 Turn the parentheses around |       🟠       | [Show](https://adventjs.dev/challenges/2023/4) |
+| 05  |     🛷 Santa's CyberTruck      |       🟠       | [Show](https://adventjs.dev/challenges/2023/5) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
