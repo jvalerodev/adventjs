@@ -16,11 +16,12 @@
 
 ### 🕹️ Challenges
 
-|  #  |        Challenge        | Difficulty[^1] |                  Description                   |
-| :-: | :---------------------: | :------------: | :--------------------------------------------: |
-| 01  | 🎁 First gift repeated! |       🟢       | [Show](https://adventjs.dev/challenges/2023/1) |
-| 02  | 🏭 We start the factory |       🟢       | [Show](https://adventjs.dev/challenges/2023/2) |
-| 03  |   😏 The naughty elf    |       🟢       | [Show](https://adventjs.dev/challenges/2023/3) |
+|  #  |           Challenge            | Difficulty[^1] |                  Description                   |
+| :-: | :----------------------------: | :------------: | :--------------------------------------------: |
+| 01  |    🎁 First gift repeated!     |       🟢       | [Show](https://adventjs.dev/challenges/2023/1) |
+| 02  |    🏭 We start the factory     |       🟢       | [Show](https://adventjs.dev/challenges/2023/2) |
+| 03  |       😏 The naughty elf       |       🟢       | [Show](https://adventjs.dev/challenges/2023/3) |
+| 04  | 😵‍💫 Turn the parentheses around |       🟠       | [Show](https://adventjs.dev/challenges/2023/4) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
